@@ -1,0 +1,15 @@
+C:\Dotnet Assignment\c#\Assignment --2\Assignment --2\Assignment --2\bin\Debug\Assignment --2.exe.config
+C:\Dotnet Assignment\c#\Assignment --2\Assignment --2\Assignment --2\bin\Debug\Assignment --2.exe
+C:\Dotnet Assignment\c#\Assignment --2\Assignment --2\Assignment --2\bin\Debug\Assignment --2.pdb
+C:\Dotnet Assignment\c#\Assignment --2\Assignment --2\Assignment --2\obj\Debug\Assignment --2.csproj.AssemblyReference.cache
+C:\Dotnet Assignment\c#\Assignment --2\Assignment --2\Assignment --2\obj\Debug\Assignment --2.csproj.SuggestedBindingRedirects.cache
+C:\Dotnet Assignment\c#\Assignment --2\Assignment --2\Assignment --2\obj\Debug\Assignment --2.csproj.CoreCompileInputs.cache
+C:\Dotnet Assignment\c#\Assignment --2\Assignment --2\Assignment --2\obj\Debug\Assignment --2.exe
+C:\Dotnet Assignment\c#\Assignment --2\Assignment --2\Assignment --2\obj\Debug\Assignment --2.pdb
+D:\DotNet\C#\Assignment --2\Assignment --2\bin\Debug\Assignment --2.exe.config
+D:\DotNet\C#\Assignment --2\Assignment --2\bin\Debug\Assignment --2.exe
+D:\DotNet\C#\Assignment --2\Assignment --2\bin\Debug\Assignment --2.pdb
+D:\DotNet\C#\Assignment --2\Assignment --2\obj\Debug\Assignment --2.csproj.AssemblyReference.cache
+D:\DotNet\C#\Assignment --2\Assignment --2\obj\Debug\Assignment --2.csproj.CoreCompileInputs.cache
+D:\DotNet\C#\Assignment --2\Assignment --2\obj\Debug\Assignment --2.exe
+D:\DotNet\C#\Assignment --2\Assignment --2\obj\Debug\Assignment --2.pdb
