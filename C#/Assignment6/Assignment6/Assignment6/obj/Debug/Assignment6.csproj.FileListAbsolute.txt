@@ -1,0 +1,16 @@
+C:\Assignments\Csharp\Assignment6\Assignment6\Assignment6\bin\Debug\Assignment6.exe.config
+C:\Assignments\Csharp\Assignment6\Assignment6\Assignment6\bin\Debug\Assignment6.exe
+C:\Assignments\Csharp\Assignment6\Assignment6\Assignment6\bin\Debug\Assignment6.pdb
+C:\Assignments\Csharp\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6.csproj.AssemblyReference.cache
+C:\Assignments\Csharp\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6.csproj.SuggestedBindingRedirects.cache
+C:\Assignments\Csharp\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6.csproj.CoreCompileInputs.cache
+C:\Assignments\Csharp\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6.exe
+C:\Assignments\Csharp\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6.pdb
+C:\Users\AU67609\Downloads\CsharpAssignments-master\CsharpAssignments-master\Assignment6\Assignment6\Assignment6\bin\Debug\Assignment6.exe.config
+C:\Users\AU67609\Downloads\CsharpAssignments-master\CsharpAssignments-master\Assignment6\Assignment6\Assignment6\bin\Debug\Assignment6.exe
+C:\Users\AU67609\Downloads\CsharpAssignments-master\CsharpAssignments-master\Assignment6\Assignment6\Assignment6\bin\Debug\Assignment6.pdb
+C:\Users\AU67609\Downloads\CsharpAssignments-master\CsharpAssignments-master\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6.csproj.AssemblyReference.cache
+C:\Users\AU67609\Downloads\CsharpAssignments-master\CsharpAssignments-master\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6.csproj.SuggestedBindingRedirects.cache
+C:\Users\AU67609\Downloads\CsharpAssignments-master\CsharpAssignments-master\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6.csproj.CoreCompileInputs.cache
+C:\Users\AU67609\Downloads\CsharpAssignments-master\CsharpAssignments-master\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6.exe
+C:\Users\AU67609\Downloads\CsharpAssignments-master\CsharpAssignments-master\Assignment6\Assignment6\Assignment6\obj\Debug\Assignment6.pdb
