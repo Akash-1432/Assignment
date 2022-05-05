@@ -1,0 +1,8 @@
+C:\Assignment\Code base test 1\Code base test1\Code base test1\bin\Debug\Code base test1.exe.config
+C:\Assignment\Code base test 1\Code base test1\Code base test1\bin\Debug\Code base test1.exe
+C:\Assignment\Code base test 1\Code base test1\Code base test1\bin\Debug\Code base test1.pdb
+C:\Assignment\Code base test 1\Code base test1\Code base test1\obj\Debug\Code base test1.csproj.AssemblyReference.cache
+C:\Assignment\Code base test 1\Code base test1\Code base test1\obj\Debug\Code base test1.csproj.SuggestedBindingRedirects.cache
+C:\Assignment\Code base test 1\Code base test1\Code base test1\obj\Debug\Code base test1.csproj.CoreCompileInputs.cache
+C:\Assignment\Code base test 1\Code base test1\Code base test1\obj\Debug\Code base test1.exe
+C:\Assignment\Code base test 1\Code base test1\Code base test1\obj\Debug\Code base test1.pdb
