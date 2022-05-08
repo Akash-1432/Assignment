@@ -1,0 +1,16 @@
+C:\Assignments\C#\Assign5\Assign5\bin\Debug\Assign5.exe.config
+C:\Assignments\C#\Assign5\Assign5\bin\Debug\Assign5.exe
+C:\Assignments\C#\Assign5\Assign5\bin\Debug\Assign5.pdb
+C:\Assignments\C#\Assign5\Assign5\obj\Debug\Assign5.csproj.AssemblyReference.cache
+C:\Assignments\C#\Assign5\Assign5\obj\Debug\Assign5.csproj.SuggestedBindingRedirects.cache
+C:\Assignments\C#\Assign5\Assign5\obj\Debug\Assign5.csproj.CoreCompileInputs.cache
+C:\Assignments\C#\Assign5\Assign5\obj\Debug\Assign5.exe
+C:\Assignments\C#\Assign5\Assign5\obj\Debug\Assign5.pdb
+C:\Users\AU67609\Downloads\TrainingAssignment-master\TrainingAssignment-master\C#\Assign5\Assign5\bin\Debug\Assign5.exe.config
+C:\Users\AU67609\Downloads\TrainingAssignment-master\TrainingAssignment-master\C#\Assign5\Assign5\bin\Debug\Assign5.exe
+C:\Users\AU67609\Downloads\TrainingAssignment-master\TrainingAssignment-master\C#\Assign5\Assign5\bin\Debug\Assign5.pdb
+C:\Users\AU67609\Downloads\TrainingAssignment-master\TrainingAssignment-master\C#\Assign5\Assign5\obj\Debug\Assign5.csproj.AssemblyReference.cache
+C:\Users\AU67609\Downloads\TrainingAssignment-master\TrainingAssignment-master\C#\Assign5\Assign5\obj\Debug\Assign5.csproj.SuggestedBindingRedirects.cache
+C:\Users\AU67609\Downloads\TrainingAssignment-master\TrainingAssignment-master\C#\Assign5\Assign5\obj\Debug\Assign5.csproj.CoreCompileInputs.cache
+C:\Users\AU67609\Downloads\TrainingAssignment-master\TrainingAssignment-master\C#\Assign5\Assign5\obj\Debug\Assign5.exe
+C:\Users\AU67609\Downloads\TrainingAssignment-master\TrainingAssignment-master\C#\Assign5\Assign5\obj\Debug\Assign5.pdb
