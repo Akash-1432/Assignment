@@ -1,8 +1,0 @@
-C:\Assignment\Code base exam 2\Code base test 2\Code base test 2\bin\Debug\Code base test 2.exe.config
-C:\Assignment\Code base exam 2\Code base test 2\Code base test 2\bin\Debug\Code base test 2.exe
-C:\Assignment\Code base exam 2\Code base test 2\Code base test 2\bin\Debug\Code base test 2.pdb
-C:\Assignment\Code base exam 2\Code base test 2\Code base test 2\obj\Debug\Code base test 2.csproj.AssemblyReference.cache
-C:\Assignment\Code base exam 2\Code base test 2\Code base test 2\obj\Debug\Code base test 2.csproj.SuggestedBindingRedirects.cache
-C:\Assignment\Code base exam 2\Code base test 2\Code base test 2\obj\Debug\Code base test 2.csproj.CoreCompileInputs.cache
-C:\Assignment\Code base exam 2\Code base test 2\Code base test 2\obj\Debug\Code base test 2.exe
-C:\Assignment\Code base exam 2\Code base test 2\Code base test 2\obj\Debug\Code base test 2.pdb
