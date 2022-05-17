@@ -1,0 +1,16 @@
+C:\Assignments\C#\codeBaseTest2\codeBaseTest2\bin\Debug\codeBaseTest2.exe.config
+C:\Assignments\C#\codeBaseTest2\codeBaseTest2\bin\Debug\codeBaseTest2.exe
+C:\Assignments\C#\codeBaseTest2\codeBaseTest2\bin\Debug\codeBaseTest2.pdb
+C:\Assignments\C#\codeBaseTest2\codeBaseTest2\obj\Debug\codeBaseTest2.csproj.AssemblyReference.cache
+C:\Assignments\C#\codeBaseTest2\codeBaseTest2\obj\Debug\codeBaseTest2.csproj.SuggestedBindingRedirects.cache
+C:\Assignments\C#\codeBaseTest2\codeBaseTest2\obj\Debug\codeBaseTest2.csproj.CoreCompileInputs.cache
+C:\Assignments\C#\codeBaseTest2\codeBaseTest2\obj\Debug\codeBaseTest2.exe
+C:\Assignments\C#\codeBaseTest2\codeBaseTest2\obj\Debug\codeBaseTest2.pdb
+C:\Users\AU67609\Downloads\TrainingAssignment-master (1)\TrainingAssignment-master\C#\codeBaseTest2\codeBaseTest2\bin\Debug\codeBaseTest2.exe.config
+C:\Users\AU67609\Downloads\TrainingAssignment-master (1)\TrainingAssignment-master\C#\codeBaseTest2\codeBaseTest2\bin\Debug\codeBaseTest2.exe
+C:\Users\AU67609\Downloads\TrainingAssignment-master (1)\TrainingAssignment-master\C#\codeBaseTest2\codeBaseTest2\bin\Debug\codeBaseTest2.pdb
+C:\Users\AU67609\Downloads\TrainingAssignment-master (1)\TrainingAssignment-master\C#\codeBaseTest2\codeBaseTest2\obj\Debug\codeBaseTest2.csproj.AssemblyReference.cache
+C:\Users\AU67609\Downloads\TrainingAssignment-master (1)\TrainingAssignment-master\C#\codeBaseTest2\codeBaseTest2\obj\Debug\codeBaseTest2.csproj.SuggestedBindingRedirects.cache
+C:\Users\AU67609\Downloads\TrainingAssignment-master (1)\TrainingAssignment-master\C#\codeBaseTest2\codeBaseTest2\obj\Debug\codeBaseTest2.csproj.CoreCompileInputs.cache
+C:\Users\AU67609\Downloads\TrainingAssignment-master (1)\TrainingAssignment-master\C#\codeBaseTest2\codeBaseTest2\obj\Debug\codeBaseTest2.exe
+C:\Users\AU67609\Downloads\TrainingAssignment-master (1)\TrainingAssignment-master\C#\codeBaseTest2\codeBaseTest2\obj\Debug\codeBaseTest2.pdb
