@@ -1,0 +1,8 @@
+C:\Assignment\codeBase3\CodeBaseExam3\bin\Debug\CodeBaseExam3.exe.config
+C:\Assignment\codeBase3\CodeBaseExam3\bin\Debug\CodeBaseExam3.exe
+C:\Assignment\codeBase3\CodeBaseExam3\bin\Debug\CodeBaseExam3.pdb
+C:\Assignment\codeBase3\CodeBaseExam3\obj\Debug\CodeBaseExam3.csproj.AssemblyReference.cache
+C:\Assignment\codeBase3\CodeBaseExam3\obj\Debug\CodeBaseExam3.csproj.SuggestedBindingRedirects.cache
+C:\Assignment\codeBase3\CodeBaseExam3\obj\Debug\CodeBaseExam3.csproj.CoreCompileInputs.cache
+C:\Assignment\codeBase3\CodeBaseExam3\obj\Debug\CodeBaseExam3.exe
+C:\Assignment\codeBase3\CodeBaseExam3\obj\Debug\CodeBaseExam3.pdb
