@@ -34,8 +34,8 @@ namespace CodeBaseExam3
                 using (SqlCommand command = new SqlCommand("SELECT MAX(empno) AS ID FROM Code_Employee", conn))
                 {
                    empNumber = Convert.ToInt32(command.ExecuteScalar()) + 1;
-              
                 }
+                Console.WriteLine(empNumber);
                 Console.WriteLine("Connection successful!");
                 StringBuilder strBuilder = new StringBuilder();
                 Console.WriteLine("Please enter employee name...!");

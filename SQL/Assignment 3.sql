@@ -3,8 +3,8 @@ select * from Emp1;
 
 select * from Dept;
 
---1. List the name and salary for all employees whose salary is not in the range of 1500 and 2850.
-select ename,sal from Emp1 where sal>1500 and sal<2850;
+--1. List the name and salary for all employees whose salary is not in the range of 2000 and 5000.
+select ename,sal from Emp1 where sal>2000 and sal<5000;
 
 
 --2. Display the name and job of all employees who do not have a MANAGER.
@@ -12,9 +12,9 @@ select ename,job from  Emp1 where job != 'Manager';
 
 
 
---3. Display the name, job, and salary of all the employees whose job is MANAGER or ANALYST and their salary is not equal to 1000, 3000, or 5000.
+--3. Display the name, job, and salary of all the employees whose job is MANAGER or ANALYST and their salary is not equal to 1500, 2500, or 3500.
 select ename,job ,sal from  Emp1
-where job in ('Manager','Analyst') And sal not in (1000,3000,5000);
+where job in ('Manager','Analyst') And sal not in (1500,2500,3500);
 
 
 
